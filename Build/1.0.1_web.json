@@ -1,0 +1,12 @@
+{
+"companyName": "UARK Capstone Team 6",
+"productName": "Transit Trouble",
+"dataUrl": "1.0.1_web.data.unityweb",
+"wasmCodeUrl": "1.0.1_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "1.0.1_web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
