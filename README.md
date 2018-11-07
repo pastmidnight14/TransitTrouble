@@ -7,6 +7,6 @@ The game is available to be [played online](https://pastmidnight14.github.io/Tra
 
 Developed by University of Arkansas computer science students as part of the 2017-2018 CSCE Capstone course, the project sought to combine and modernize the **Gridlock Buster** and **MyTrafficKontrol** games which provide an interactive introduction to traffic light timing systems.
 
-The complete project report, found [here](TransitTrouble/Capstone 2 Final Report .pdf), includes information about the process, technologies, and assets that went into the game.
+The complete project report, found [here](https://github.com/pastmidnight14/TransitTrouble/blob/master/Capstone%202%20Final%20Report%20.pdf), includes information about the process, technologies, and assets that went into the game.
 
 **Transit Trouble** was developed by Anthony Lam, Jonathan Ma, Mitchum Dillard, Perry Mills, Rodrigo Sanchez, and Tanner Wilson under the mentorship of Dr. Sarah Hernandez of the Civil Engineering Department at the University of Arkansas. The project is maintained by Perry Mills.
