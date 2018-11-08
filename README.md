@@ -1,7 +1,10 @@
 **Transit Trouble** is a game intended to introduce K-12 students to traffic light control system concepts.
 The game is used in conjunction with other teaching aids as part of civil engineering outreach by the [Hernandez Research Team](https://sites.uark.edu/sarahvh/service/).
 
-The game is available to be [played online](https://pastmidnight14.github.io/TransitTrouble/). <!--- or desktop builds can be downloaded from this repository. -->
+The game is available to be
+[played online](https://pastmidnight14.github.io/TransitTrouble/)
+or [desktop builds](Builds/)
+can be downloaded from this repository.
 
 ![screenshot](http://i.imgur.com/6BgTpG4.png)
 
